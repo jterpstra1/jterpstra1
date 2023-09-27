@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jterpstra1 ( Jurre T, Louvain, Belgium)
+- 👋 Hi, I’m @jterpstra1 ( Jurre Terpstra, Diest, Belgium)
 - 👀 I’m interested in Azure, Terraform, my wife and newborn son.
 - 🌱 I’m currently learning Golang, Terraform and AZ-400
 - 📫 How to reach me : info@terpstra.tech
