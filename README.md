@@ -18,9 +18,8 @@ Most of what's public here is something I needed myself and finished properly en
 - [koreader-pocketbook-wifi-fix](https://github.com/jterpstra1/koreader-pocketbook-wifi-fix) · KOReader user patch for PocketBook so that "Wi-Fi off" actually powers the radio down, instead of draining the battery overnight.
 - [koreader-simpleui-bento](https://github.com/jterpstra1/koreader-simpleui-bento) · Per-module Bento Grid widths for the SimpleUI home screen, re-targeted at SimpleUI 2.5.
 
-**Kubernetes & GitOps**
+**Kubernetes**
 
-- [argocd-setup](https://github.com/jterpstra1/argocd-setup), [argocd-apps](https://github.com/jterpstra1/argocd-apps), [argocd-k8s-resources](https://github.com/jterpstra1/argocd-k8s-resources) · Three-repo Argo CD bootstrap that manages itself, with separate repos for install, application definitions and manifests.
 - [k3s-ha-setup](https://github.com/jterpstra1/k3s-ha-setup) · Highly available k3s cluster on Proxmox: three control-plane nodes, workers and load balancers on one old PC.
 
 **Cloud & automation**
