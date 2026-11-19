@@ -4,6 +4,16 @@ Cloud & DevOps consultant from Belgium, working mostly in **Azure**, **infrastru
 
 Most of what's public here is something I needed myself and finished properly enough to share.
 
+## Open source
+
+**[icloudpd](https://github.com/icloud-photos-downloader/icloud_photos_downloader)** · I help maintain icloud-photos-downloader, a command-line tool that backs up your iCloud Photos library (12k+ stars). Since October 2026 I've [had 50+ pull requests merged](https://github.com/icloud-photos-downloader/icloud_photos_downloader/pulls?q=is%3Apr+author%3Ajterpstra1+is%3Amerged), among them:
+
+- **CI that tells the truth.** The build went from 376 jobs to 73 and runs in about half the time. Compatibility tests had been failing silently for over a year; they now report properly.
+- **Python 3.14 and 3.15 support**, plus dependency updates and a certifi security fix.
+- **Bug fixes** for deleting photos from iCloud when the download failed, broken XMP sidecars, locked keyrings, and macOS "Intel" binaries that were actually Apple Silicon.
+
+I also review contributions and triage issues there.
+
 ## Things I've built
 
 **Home & self-hosting**
